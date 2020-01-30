@@ -10,9 +10,7 @@ package ca.sheridancollege.project;
  * enough to be instantiated for any Card game. Students wishing to add to the code 
  * should remember to add themselves as a modifier.
  * @author Sivagama
- */
-/**
- * Team Name: Glowing Stars.
+ * team member : Paramjeet Kaur
  */
 public abstract class Card 
 {
